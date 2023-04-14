@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isteveweb
 - 👀 I’m interested in App development 
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on software engineers especially kotlin developer like me
+- 💞️ I’m looking to collaborate with software engineers especially kotlin developer like me
 - 📫 reach me through isteveweb@gmail.com
 
 <!---
